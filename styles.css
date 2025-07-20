@@ -1,0 +1,22 @@
+body {
+    background-color: #f1f8e9;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.video-container {
+    margin: 25px auto;
+}
+
+.animated-box {
+    width: 260px;
+    height: 50px;
+    margin: 35px auto;
+    background-color: #33691e;
+    line-height: 50px;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 10px;
+    position: relative;
+}
